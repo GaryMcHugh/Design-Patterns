@@ -1,0 +1,22 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.pdb
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.deps.json
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.json
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.runtimeconfig.dev.json
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.dll
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.0\BridgePattern.pdb
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.AssemblyInfo.cs
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.dll
+C:\Users\mchugg01\Desktop\Patterns\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.0\BridgePattern.pdb

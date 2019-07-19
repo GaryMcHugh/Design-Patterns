@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\bin\Debug\netcoreapp2.0\IteratorPattern2.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\bin\Debug\netcoreapp2.0\IteratorPattern2.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\bin\Debug\netcoreapp2.0\IteratorPattern2.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\bin\Debug\netcoreapp2.0\IteratorPattern2.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\bin\Debug\netcoreapp2.0\IteratorPattern2.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.pdb
+C:\Users\mchugg01\documents\visual studio 2017\Projects\IteratorPattern2\IteratorPattern2\obj\Debug\netcoreapp2.0\IteratorPattern2.csprojResolveAssemblyReference.cache

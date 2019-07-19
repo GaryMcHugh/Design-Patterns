@@ -1,0 +1,11 @@
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.deps.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.runtimeconfig.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.runtimeconfig.dev.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\bin\Debug\netcoreapp2.0\StatePattern.pdb
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.AssemblyInfo.cs
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\StatePattern\StatePattern\obj\Debug\netcoreapp2.0\StatePattern.pdb

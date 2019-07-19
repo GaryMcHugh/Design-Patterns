@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb

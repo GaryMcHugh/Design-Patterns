@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.0\ProxyPattern.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.0\ProxyPattern.pdb
