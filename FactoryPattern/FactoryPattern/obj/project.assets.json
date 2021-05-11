@@ -665,37 +665,37 @@
   },
   "packageFolders": {
     "C:\\Users\\mchugg01\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mchugg01\\documents\\visual studio 2017\\Projects\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\mchugg01\\Desktop\\Design-Patterns\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "C:\\Users\\mchugg01\\documents\\visual studio 2017\\Projects\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "C:\\Users\\mchugg01\\Desktop\\Design-Patterns\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\mchugg01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mchugg01\\documents\\visual studio 2017\\Projects\\FactoryPattern\\FactoryPattern\\obj\\",
+      "outputPath": "C:\\Users\\mchugg01\\Desktop\\Design-Patterns\\FactoryPattern\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\mchugg01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.32.150.62/nuget/Default": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {}
         }
       },
@@ -707,18 +707,26 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
