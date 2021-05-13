@@ -1,0 +1,13 @@
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\mchugg01\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
