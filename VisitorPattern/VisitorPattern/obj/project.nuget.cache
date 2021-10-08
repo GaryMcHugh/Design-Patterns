@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmQ5wPSHJ6Wn0efAks/EDlcfoMjo7ipLQEZdqBotqVc3rw1F0+OXRakxNdujyQ9z/YFGv7J9o3NAZftiaW6DRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mchugg01\\source\\repos\\VisitorPattern\\VisitorPattern\\VisitorPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mchugg01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

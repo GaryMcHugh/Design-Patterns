@@ -1,0 +1,13 @@
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.exe
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.deps.json
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.json
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.dev.json
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.dll
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.pdb
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.csprojAssemblyReference.cache
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfo.cs
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.dll
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.pdb
+C:\Users\mchugg01\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.genruntimeconfig.cache
